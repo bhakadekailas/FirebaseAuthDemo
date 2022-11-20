@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirebaseAuthDemo</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="new_user_please_signup">New User? Please SignUp</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="signup">SignUp</string>
+    <string name="imcc_logo">Imcc Logo</string>
+    <string name="this_is_dashboard_screen">This is dashboard screen</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="this_is_main_activity">This is Main Activity</string>
+</resources>
